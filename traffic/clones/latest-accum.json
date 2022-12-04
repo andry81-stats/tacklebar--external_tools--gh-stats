@@ -1,13 +1,13 @@
 {
-  "timestamp" : "2022-12-03T16:06:46Z",
+  "timestamp" : "2022-12-04T08:07:21Z",
   "count_outdated" : 715,
   "uniques_outdated" : 301,
-  "count" : 729,
+  "count" : 728,
   "uniques" : 308,
   "clones" : [
     {
       "timestamp": "2022-11-20T00:00:00Z",
-      "count": 2,
+      "count": 1,
       "count_minmax": [ 1, 2 ],
       "uniques": 1,
       "uniques_minmax": [ 1, 1 ]
